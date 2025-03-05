@@ -1,0 +1,15 @@
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\bin\Release\KolSan_SatisTakip.exe.config
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\bin\Release\KolSan_SatisTakip.exe
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\bin\Release\KolSan_SatisTakip.pdb
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.csproj.AssemblyReference.cache
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Form1.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Form2.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Form3.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Form4.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Form5.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Form6.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.Properties.Resources.resources
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.csproj.GenerateResource.cache
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.exe
+C:\Users\90534\Desktop\KolSan_SatisTakip\KolSan_SatisTakip\obj\Release\KolSan_SatisTakip.pdb
